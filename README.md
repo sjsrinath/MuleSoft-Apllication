@@ -1,2 +1,2 @@
-# MuleSoft-Apllication
+# MuleSoft-Application
 Hello World application.
